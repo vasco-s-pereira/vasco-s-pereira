@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ### Technologies I Work With:
-- **Languages**:![image](https://github.com/user-attachments/assets/a27ccec0-f039-4c30-bbb3-5893f55571f4)
+- **Languages**:![image](https://github.com/user-attachments/assets/6f247d64-00b3-4a2e-9142-77158693dff1)
+
 , C++, C
 - **Tools**: Jupyter Notebook, Git, Docker
 - **Frameworks**: TensorFlow
