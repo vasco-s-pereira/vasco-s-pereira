@@ -2,10 +2,14 @@
 
 Welcome to my GitHub profile! My name is Vasco Pereira and I am currently studying Computer Science at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/).
 
+
 ## 🌟 About Me
 🏫 Computer Science Student with a passion for AI, Machine Learning and data.
+
 🧩 Interested in building scalable applications and solving complex problems.
+
 ⚽ Football fan | 🥋 Martial arts enthusiast | 🤖 AI aficionado.
+
 
 
 ## 🚀 Technologies I Work With
@@ -24,6 +28,7 @@ Welcome to my GitHub profile! My name is Vasco Pereira and I am currently studyi
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![OutSystems](https://img.shields.io/badge/OutSystems-E03236?style=for-the-badge&logo=outsystems&logoColor=white)
+
 
 
 ## 📫 How to Reach Me
