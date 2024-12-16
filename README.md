@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! My name is Vasco Pereira and I am currently studying Computer Science at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/).
 
+## 🌟 About Me
+🏫 Computer Science Student with a passion for AI, Machine Learning and data.
+🧩 Interested in building scalable applications and solving complex problems.
+⚽ Football fan | 🥋 Martial arts enthusiast | 🤖 AI aficionado.
+
 
 ## 🚀 Technologies I Work With
 
