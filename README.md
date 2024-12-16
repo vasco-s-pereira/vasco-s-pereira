@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ### Technologies I Work With:
-- **Languages**:![image](https://github.com/user-attachments/assets/6f247d64-00b3-4a2e-9142-77158693dff1)
+- **Languages**:![image](https://github.com/user-attachments/assets/8412f3e4-6aad-4c25-9260-c90dbca59383)
+
 
 , C++, C
 - **Tools**: Jupyter Notebook, Git, Docker
