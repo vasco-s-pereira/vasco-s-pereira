@@ -16,6 +16,11 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![OutSystems](https://img.shields.io/badge/OutSystems-E03236?style=for-the-badge&logo=outsystems&logoColor=white)
+
+## 📫 How to Reach Me
+Feel free to connect:
+📧 Email: vasco.serpa.pereira@gmail.com
+💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vasco-pereira-46986b325/)
 <!--
 **vasco-s-pereira/vasco-s-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
