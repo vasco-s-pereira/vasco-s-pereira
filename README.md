@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Welcome to my GitHub profile! My name is Vasco Pereira and I am currently studing Computer Science at IST.
+
 ## 🚀 Technologies I Work With
 
 ### 💻 Programming Languages
