@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 ### Technologies I Work With:
-- **Languages**:![image](https://github.com/user-attachments/assets/8412f3e4-6aad-4c25-9260-c90dbca59383)
-
-![Uploading image.png…]()
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
