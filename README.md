@@ -3,7 +3,7 @@
 ### Technologies I Work With:
 - **Languages**: Python, C++, C
 - **Tools**: Jupyter Notebook, Git, Docker
-- **Frameworks**: TensorFlow, PyTorch
+- **Frameworks**: TensorFlow
 <!--
 **vasco-s-pereira/vasco-s-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
