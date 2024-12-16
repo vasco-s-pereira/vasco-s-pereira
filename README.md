@@ -3,6 +3,7 @@
 ### Technologies I Work With:
 - **Languages**:![image](https://github.com/user-attachments/assets/8412f3e4-6aad-4c25-9260-c90dbca59383)
 
+![image](https://github.com/user-attachments/assets/20c94c16-36aa-473c-9602-006148152d43)
 
 , C++, C
 - **Tools**: Jupyter Notebook, Git, Docker
