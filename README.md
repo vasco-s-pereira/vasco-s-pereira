@@ -28,10 +28,11 @@ Welcome to my GitHub profile! My name is Vasco Pereira and I am currently studyi
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![OutSystems](https://img.shields.io/badge/OutSystems-E03236?style=for-the-badge&logo=outsystems&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-orange)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0-blue)
-  ![NumPy](https://img.shields.io/badge/NumPy-1.24.0-lightblue)
-  ![Pandas](https://img.shields.io/badge/Pandas-1.5.2-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 
 
