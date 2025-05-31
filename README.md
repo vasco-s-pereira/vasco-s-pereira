@@ -52,7 +52,7 @@ Feel free to connect:
 
 📧 Email: vasco.serpa.pereira@gmail.com
 
-💼 LinkedIn: [My LinkedIn](www.linkedin.com/in/vasco-pereira03)
+💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/vasco-pereira03/)
 <!--
 **vasco-s-pereira/vasco-s-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
