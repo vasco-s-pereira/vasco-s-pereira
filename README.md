@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! My name is Vasco Pereira and I am currently studying Computer Science at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/).
+Welcome to my GitHub profile! My name is Vasco Pereira and I am currently in the first year of my MSc in Computer Science at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/).
 
 
 ## 🌟 About Me
